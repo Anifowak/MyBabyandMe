@@ -1,4 +1,4 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 MyBaby & Me App Starter Kit 
 ```
 ⬆️ (Replace above with your app's name)
 ```
